@@ -6,3 +6,4 @@ the-view 会客厅
 
 ## skills/
 [zhengxi-views](https://github.com/lyra81604/zhengxi-views)
+[buffett-skills](https://github.com/agi-now/buffett-skills)
